@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cePG8Ve5odkuhWu8s9HEgAH59G4jH1jt1dz6AnzdExiVzkTZgio1bI0nnRevRRTPmahYfvH4DwCA5gXWg36Jyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Client-SIC\\Desktop\\Game dev\\Microsoft-C\\Challenge-project-methods\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Client-SIC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Client-SIC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Client-SIC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Client-SIC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
